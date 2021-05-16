@@ -1,3 +1,2 @@
 # devTI181FR
-remote for TW labs
-lorem ipsum
+Equation Solver site for solving quadratic equation.
