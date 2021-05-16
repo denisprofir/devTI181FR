@@ -1,3 +1,0 @@
-Test text
-Added from local branch
-Hello from another local repository
